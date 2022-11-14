@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x12. C - Singly linked lists
 File 0-print_list.c is a function that prints all the elements of a list_t list.
 
@@ -14,3 +15,7 @@ File 100-first.c is a function that prints a sentence before the main function i
 File 101-hello_holberton.asm is 64-bit program in assembly that prints "Hello, Holberton", followed by a new line.
 
 File lists.h is the header file containing the definition of the list_t struct and all the prototypes of the above functions.
+=======
+# alx-low_level_programming
+learning how to programming in C
+>>>>>>> 98811b50df1a67851f10abeb70de71b53b5495c3
